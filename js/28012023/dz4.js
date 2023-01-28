@@ -4,8 +4,21 @@
 //sum() возвращает сумму сохраненных значений
 //mult() перемножает сохраненные значения и возвращает результат
 
-// const calculator = {
-//   read(a, b) {},
-//   sum() {},
-//   mult() {},
-// };
+const calculator = {
+    read(a, b) {
+        this.first = a;
+        this.second = b;
+    },
+
+    sum() {
+        return this.first + this.second;
+    },
+    
+    mult() {
+        return this.first * this.second;
+    },
+};
+
+
+calculator.read(2, 9);
+console.log(calculator.sum());

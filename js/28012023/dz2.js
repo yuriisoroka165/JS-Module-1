@@ -8,3 +8,13 @@ const salaries = {
   Poly: 160,
   Ajax: 1470,
 };
+
+let sum = 0;
+
+if (salaries !== {}) {
+    for (const key of Object.keys(salaries)) {
+        sum += salaries[key];
+    }
+}
+
+console.log(sum);
