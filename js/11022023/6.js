@@ -8,7 +8,7 @@
 const numbers = [3, 5, 6, 34, 8, 83, 12, 34];
 
 function each(array, callback) {
-    return array.map(item => callback(item));
+    return array.map(callback);
 }
 
 function multiply(element) {
