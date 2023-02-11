@@ -5,3 +5,16 @@
 //строку "Привет <name>"
 //Реализуй проверку, что prompt не пустой
 //
+
+function letMeSeeYourName(callback) {
+    const getName = prompt("Please enter username: ");
+    if (getName) {
+        callback(getName);
+    }
+}
+
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
+
+letMeSeeYourName(greet);
