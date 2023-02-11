@@ -16,28 +16,30 @@ class User {
         return this.#login;
     }
 
-    set login(login) {
-        this.#login = login;
+    set login(newLogin) {
+        this.#login = newLogin;
     }
 
     get email() {
         return this.#email;
     }
 
-    set email(email) {
-        this.#email = email;
+    set email(newEmail) {
+        this.#email = newEmail;
     }
 }
 
-const newUser = new User('yurii', 'yurisoroka165@gmail.com');
+const newUser = new User('the_targa', 'yurisoroka165@gmail.com');
 
 console.log(newUser.login);
 console.log(newUser.email);
+
 console.log('\n');
-newUser.login = 'the_targa';
+newUser.login = 'soroka';
 
 console.log(newUser.login);
 console.log(newUser.email);
+
 console.log('\n');
 newUser.email = 'Yurii.Soroka@ukrpol.ua';
 
