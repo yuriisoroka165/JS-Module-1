@@ -1,0 +1,33 @@
+// Tell me about yourself for software developers
+I am Yurii Soroka.I am a system administrator at Ukrpol printing company.
+I am currently trying to become a Full stack developer.
+I know CSS, JavaScript, HTML, Python.
+I did one successful team project. The project was a website for an ice cream cafe.
+I want to work for your company because I see that your company is consistently listed as one of the top places to work.
+I'm excited to begin a career as a frontend developer and learn more about this line of work from industry professionals.
+
+// What do you do to improve your English?
+To improve my English I use Duolingo app for 15 minutes every day.
+I'm also trying to learn new words every day.
+On Sundays i study with a personal tutor.
+I also often read technical literature at work.
+
+// How do you keep a work-life balance?
+To keep a work - life balance I'm trying to work in an office and only do household chores at home.
+Often my relaxation methods come down to sleep and walks with my children.
+Often i can't work from home because my big family tries to distract me from work.
+
+// How can you improve your job skills?
+To improve my job skills i attend specialized courses, currently this is a GoIT course for FullStack developers.
+I also watch technical YouTube channels, I read technical articles while commuting to work.
+To improve my English i study with a personal tutor on Sundays.
+
+// What is unacceptable for you at work? Why?
+In my opinion, dishonesty is unacceptable at work because it's very difficult to work with people who you don't trust.
+I think that laziness is unacceptable at work because laziness is contagious and it affects the performance of work.
+To my mind being rude to colleagues is unacceptable at work because rude people are demotivating.
+I think that gossip is unacceptable at work because it creates an unhealthy work environment.
+
+// What should you do if you don’t know how to handle a challenge?
+If i don't know how to handle a challenge, i should try to find a solution in resources which can help me.
+If i can't find a solution on my own i should ask my manager or more experienced colleagues for advice.
